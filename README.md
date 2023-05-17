@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Naeem Manyar</h1>
 <h3 align="center">A passionate android developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://devpunch.com/img/Dev-At-Work-Gif.jpg">
@@ -20,7 +20,8 @@
 <p align="left">
 <a href="https://twitter.com/manyar_naeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manyar_naeem" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/naeem-manyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naeem-manyar" height="30" width="40" /></a>
-<a href="https://instagram.com/naeem_manyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naeem_manyar" height="30" width="40" /></a>
+<a href="https://instagram.com/naeem_manyar" target="blank"><img align="center" src="![image](https://github.com/naeem-manyar/naeem-manyar/assets/133579502/0da85b10-bc90-4892-98dd-45ec5e275a73)
+" alt="naeem_manyar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
